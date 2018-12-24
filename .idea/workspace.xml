@@ -2,53 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902a21aa-d6b2-402d-946a-9c7241a222ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Acquisition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/AddJSon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Clinical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Unstructured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000000.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000001.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000002.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000003.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000004.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000005.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000006.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000007.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000008.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000009.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000010.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000011.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000012.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000013.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000014.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000015.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000016.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000017.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000018.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imageJPEG/ISIC_0000019.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/merged_file_TEST.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/merged1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mergedLimited.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/JsonModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/JsonModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Meta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Meta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deneme2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/descs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/deneme2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/descs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Creator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Dataset.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Dataset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/JsonModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/JsonModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta$Acquisition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta$Clinical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta$Unstructured.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta$UnstructuredExif.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta$UnstructuredExif.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Meta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Note$Reviewed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Note$Reviewed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Note.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tr/edu/ieu/se360/Note.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,7 +53,7 @@
           <file leaf-file-name="JsonModel.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/JsonModel.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
+                <state relative-caret-position="765">
                   <caret line="87" selection-start-line="87" selection-end-line="87" />
                 </state>
               </provider>
@@ -103,27 +62,39 @@
           <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+                <state relative-caret-position="70">
+                  <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#840#851#0" expanded="true" />
+                    <element signature="e#828#839#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Filter.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="merged_file.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/merged_file.json">
+              <provider selected="true" editor-type-id="LargeFileEditor">
+                <state relative-caret-position="-1178">
+                  <caret column="307262" selection-start-column="307259" selection-end-column="307262" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="merged_file_TEST.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/merged_file_TEST.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-4372" />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Filter.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+                <state relative-caret-position="135">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1115#1116#0" expanded="true" />
-                    <element signature="e#1145#1146#0" expanded="true" />
-                    <element signature="e#1190#1191#0" expanded="true" />
-                    <element signature="e#1228#1229#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -172,7 +143,7 @@
           <file leaf-file-name="Clinical.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Clinical.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="410">
+                <state relative-caret-position="630">
                   <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
                   <folding>
                     <element signature="e#609#610#0" expanded="true" />
@@ -185,17 +156,13 @@
           <file leaf-file-name="image.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/image.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="245">
-                  <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="50" />
+                <state relative-caret-position="425">
+                  <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
                   <folding>
                     <element signature="e#141#142#0" expanded="true" />
                     <element signature="e#173#174#0" expanded="true" />
                     <element signature="e#223#224#0" expanded="true" />
                     <element signature="e#265#266#0" expanded="true" />
-                    <element signature="e#477#478#0" expanded="true" />
-                    <element signature="e#513#514#0" expanded="true" />
-                    <element signature="e#574#575#0" expanded="true" />
-                    <element signature="e#624#625#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -224,6 +191,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ISIC_0010052</find>
+      <find>100</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -250,8 +218,8 @@
         <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Gettingİmage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/FilteringImage.java" />
         <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/image.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java" />
       </list>
     </option>
   </component>
@@ -282,8 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -328,6 +294,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -437,15 +405,17 @@
       <workItem from="1544913304108" duration="221000" />
       <workItem from="1545124709525" duration="359000" />
       <workItem from="1545309802454" duration="1709000" />
-      <workItem from="1545311676993" duration="4799000" />
+      <workItem from="1545311676993" duration="5329000" />
+      <workItem from="1545687472796" duration="135000" />
+      <workItem from="1545687840126" duration="688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28964000" />
+    <option name="totallyTimeSpent" value="30317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="824" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -454,28 +424,28 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5388889" side_tool="true" visible="true" weight="0.25066668" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5402778" side_tool="true" visible="true" weight="0.25066668" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4611111" visible="true" weight="0.25066668" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.45972222" visible="true" weight="0.25066668" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15763889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15763889" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49930555" weight="0.32933334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930555" weight="0.39976415" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930555" weight="0.39976415" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49930555" weight="0.32933334" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,20 +460,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/AddJSon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Meta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="192" column="5" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -544,10 +500,6 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -565,7 +517,7 @@
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#840#851#0" expanded="true" />
+            <element signature="e#828#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -631,7 +583,7 @@
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#840#851#0" expanded="true" />
+            <element signature="e#828#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -695,7 +647,7 @@
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#840#851#0" expanded="true" />
+            <element signature="e#828#839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -714,9 +666,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/ISIC_0000001.dms" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/ISIC_0000002.dms" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/deneme2.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/merged_file.json">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Dataset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -764,22 +713,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Gettingİmages.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Gettingİmage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Gettingİmage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Clinical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
+        <state relative-caret-position="630">
           <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
           <folding>
             <element signature="e#609#610#0" expanded="true" />
@@ -790,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/JsonModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="765">
           <caret line="87" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
@@ -802,57 +739,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="50" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/FilteringImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2730">
-          <caret line="261" column="28" selection-start-line="261" selection-end-line="266" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1589#1678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/ResizeImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#840#851#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/FilteringImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/ResizeImage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/AddJSon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -862,16 +750,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/Filter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/merged1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret column="1121" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tr/edu/ieu/se360/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#828#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/merged_file.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1178">
+          <caret column="307262" selection-start-column="307259" selection-end-column="307262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/merged_file_TEST.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4372" />
       </provider>
     </entry>
   </component>

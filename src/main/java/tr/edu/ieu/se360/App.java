@@ -13,8 +13,8 @@ import java.util.Iterator;
 import java.util.List;
 
 public class App {
-    static final File dirJson = new File("src/main/resources/merged_file.json");
-    static final File dirJsonTest = new File("src/main/resources/merged_file_TEST.json");
+    static final File dirJson = new File("src/main/resources/mergedLimited.json");
+    static final File dirJsonTest = new File("src/main/resources/merged1.json");
 
     public static void main(String[] args) throws Exception{
 
@@ -23,7 +23,7 @@ public class App {
         Gson gson = new Gson();
 
         Type jsonModelListType = new TypeToken<ArrayList<JsonModel>>(){}.getType();
-        List<JsonModel> jsonModelList = gson.fromJson(new FileReader(dirJsonTest),jsonModelListType);
+        List<JsonModel> jsonModelList = gson.fromJson(new FileReader(dirJson),jsonModelListType);
 
         ArrayList<JsonModel> resultFilter = new ArrayList<JsonModel>();
 

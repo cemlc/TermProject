@@ -8,7 +8,7 @@ public class Filter {
     JsonModel myModelJson;
     image myImage;
 
-    
+
     public void maxMinAge(List<JsonModel> myAgeList, ArrayList<JsonModel> myFilter, int min, int max){
         for(int i = 0; i<myAgeList.size(); i++){
             if (myAgeList.get(i).getMeta().getClinical().getAge_approx()>=min && myAgeList.get(i).getMeta().getClinical().getAge_approx()<=max){
