@@ -6,7 +6,7 @@ public class Meta {
     Clinical clinical;
     Unstructured unstructured;
     UnstructuredExif unstructuredExif;
-    Acquisition a;
+
 
     public class UnstructuredExif {
     }
@@ -43,7 +43,7 @@ public class Meta {
         this.unstructuredExif = unstructuredExif;
     }
 
-    public String toStringClinical() {
+    public String toString() {
         return "Approximate Age : " + getClinical().getAge_approx() +
                 "\nSex : " + getClinical().getSex() +
                 "\nAnatom Site General :  " + getClinical().getAnatom_site_general()+

@@ -19,7 +19,7 @@ public class Filter {
     }
     public static void showResult(ArrayList<JsonModel> myFilter){
         for(int i = 0; i<myFilter.size(); i++){
-            System.out.println(myFilter.get(i).getName());
+            System.out.println(myFilter.get(i).getMeta().getUnstructured().toString());
         }
         myFilter.clear();
     }

@@ -38,4 +38,11 @@ public class Unstructured {
     public void setSite(String site) {
         this.site = site;
     }
+
+    public String toString() {
+        return "Diagnosis : " + getDiagnosis() +
+                "\nIDL : " + getIdl() +
+                "\nLocalization :  " + getLocalization()+
+                "\nSite : " + getSite();
+    }
 }

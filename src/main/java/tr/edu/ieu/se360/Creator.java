@@ -20,4 +20,10 @@ public class Creator {
     public void setName(String name) {
         this.name = name;
     }
+
+    public String toString() {
+        return "\nID: " + get_id() +
+                "\nName : " + getName();
+
+    }
 }

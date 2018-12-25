@@ -55,4 +55,13 @@ public class Dataset {
     public void setUpdated(String updated) {
         this.updated = updated;
     }
+
+    public String toString() {
+        return "Access Level : " + get_accessLevel() +
+                "\nID: " + get_id() +
+                "\nDescription :  " + getDescription()+
+                "\nLicense : " + getLicense() +
+                "\nName : " + getName() +
+                "\nUpdated : " + getUpdated();
+    }
 }

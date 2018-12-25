@@ -29,4 +29,10 @@ public class Acquisition {
     public void setPixelsY(float pixelsY) {
         this.pixelsY = pixelsY;
     }
+
+    public String toString() {
+        return "Image Type : " + getImage_type() +
+                "\nPixels X : " + getPixelsX() +
+                "\nPixels Y :  " + getPixelsY();
+    }
 }
