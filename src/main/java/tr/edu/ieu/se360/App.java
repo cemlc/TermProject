@@ -1,20 +1,44 @@
 package tr.edu.ieu.se360;
 
 import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.reflect.TypeToken;
 
+import java.awt.*;
+import java.io.File;
 import java.io.FileReader;
+import java.lang.reflect.Type;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class App {
+    static final File dirJson = new File("src/main/resources/mergedLimited.json");
+    static final File dirJsonTest = new File("src/main/resources/merged1.json");
 
     public static void main(String[] args) throws Exception{
 
+
+
         Gson gson = new Gson();
 
-        JsonModel myJsonModel = gson.fromJson(new FileReader("/Users/diderot/IdeaProjects/TermProject/src/main/resources/deneme2.json"),JsonModel.class);
-        System.out.println(gson.toJson(myJsonModel));
+        Type jsonModelListType = new TypeToken<ArrayList<JsonModel>>(){}.getType();
+        List<JsonModel> jsonModelList = gson.fromJson(new FileReader(dirJson),jsonModelListType);
 
-        System.out.println(myJsonModel.getMeta().toStringClinical());
+        ArrayList<JsonModel> resultFilter = new ArrayList<JsonModel>();
+
+        Filter myFilter = new Filter();
+
+        myFilter.maxMinAge(jsonModelList,resultFilter,0,100);
+
+        myFilter.showResult(resultFilter);
+
+
+
+
+
 
 
     }
+
 }

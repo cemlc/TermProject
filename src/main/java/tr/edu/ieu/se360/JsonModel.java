@@ -84,4 +84,6 @@ public class JsonModel {
     public void setNote(Note note) {
         this.note = note;
     }
+
+
 }
